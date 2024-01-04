@@ -1,0 +1,34 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Que bom que você veio!",
+      "autoria": "LuisFGM",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Pé na areia, caipirinha, água de coco, cervejinha, pé na areia, água de coco, beira do MAR!!!!!!",
+      "autoria": "Pagode Japonês",
+      "modelo": "modelo2"
+    },
+    {
+      "conteudo": "\"Ouro e a casa vem de herança de seus pais, mas a esposa sensata vem do Senhor!\"",
+      "autoria": "Provérbios 19:14",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "\"Toda palavra de Deus é pura. Ele é escudo para os que nele confiam\"",
+      "autoria": "Provérbios 30:5",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso puda ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
+      "autoria": "Esquizofrenia",
+      "modelo": "modelo2",
+      "id": 6
+    }
+  ]
+}

@@ -1,34 +1,53 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que você veio!",
+      "conteudo": "Que bom ter você aqui!!",
       "autoria": "LuisFGM",
-      "modelo": "modelo1"
+      "modelo": "modelo3",
+      "id": 1,
+      "favorito": false
     },
     {
-      "id": 3,
       "conteudo": "Pé na areia, caipirinha, água de coco, cervejinha, pé na areia, água de coco, beira do MAR!!!!!!",
       "autoria": "Pagode Japonês",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "id": 3,
+      "favorito": false
     },
     {
       "conteudo": "\"Ouro e a casa vem de herança de seus pais, mas a esposa sensata vem do Senhor!\"",
       "autoria": "Provérbios 19:14",
       "modelo": "modelo1",
-      "id": 4
+      "id": 4,
+      "favorito": true
     },
     {
       "conteudo": "\"Toda palavra de Deus é pura. Ele é escudo para os que nele confiam\"",
       "autoria": "Provérbios 30:5",
       "modelo": "modelo3",
-      "id": 5
+      "id": 5,
+      "favorito": false
     },
     {
       "conteudo": "Mussum Ipsum, cacilds vidis litro abertis. Posuere libero varius. Nullam a nisl ut ante blandit hendrerit. Aenean sit amet nisi. Diuretics paradis num copo é motivis de denguis. Atirei o pau no gatis, per gatis num morreus. Interessantiss quisso puda ce receita de bolis, mais bolis eu num gostis. Sapien in monti palavris qui num significa nadis i pareci latim.",
       "autoria": "Esquizofrenia",
       "modelo": "modelo2",
-      "id": 6
+      "id": 6,
+      "favorito": false
+    },
+    {
+      "conteudo": "\"Porque na muita sabedoria há muita tristeza; e quem aumenta o seu conhecimento aumenta também sua dor.\"",
+      "autoria": "Eclesiastes 1:18",
+      "modelo": "modelo1",
+      "id": 7,
+      "favorito": false
+    },
+    {
+      "conteudo": "\"O ferro se afia com ferro, e uma pessoa, pela presença do seu próximo\"",
+      "autoria": "Provérbios 27:17",
+      "modelo": "modelo3",
+      "id": 8,
+      "favorito": true
     }
   ]
 }
